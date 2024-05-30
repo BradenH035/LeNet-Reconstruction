@@ -1,0 +1,17 @@
+Variations:
+1. The default configuration (batch size = 32, learning rate = 0.001, epochs = 10)
+    Accuracy: 16.89%
+
+--- Each change is set back to default after running --- 
+2. Set batch size to 8
+    Accuracy: 17.09%
+3. Increase batch size - Set to 16
+    Accuracy: 18.09%
+4. Set the learning rate to 0.05
+    Accuracy: 3.87%
+5. Decrease learning rate - Set to 0.01
+    Accuracy: 14.29%
+6. Set the epochs to 20
+    Accuracy: 19.76%
+7. Decrease epochs - Set to 5
+    Accuracy: 13.93
