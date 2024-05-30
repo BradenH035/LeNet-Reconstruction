@@ -2,4 +2,4 @@ This project was done in order to test how various factors (epochs, learning rat
 
 This project used Torchvision, a package from the PyTorch library.
 
-** NOTE This project contains starter code from the CS540 class from UW-Madison taught by Professor Fred Sala **
+** NOTE This project contains starter code from the CS540 class from UW-Madison taught by Professor Fred Sala and should not be used anywhere else**
